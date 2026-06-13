@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "REA_CRAFTBD_BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "REA_CRAFTBD.aternos.me",
-    "port": 64897,
+    "ip": "REA_CRAFTBD.exaroton.me",
+    "port": 30066,
     "version": "1.20.1",
     "try-creative": false
   },
